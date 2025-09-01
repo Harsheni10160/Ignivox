@@ -1,0 +1,5 @@
+opencv-python
+dlib
+face-recognition
+mediapipe
+tensorflow
