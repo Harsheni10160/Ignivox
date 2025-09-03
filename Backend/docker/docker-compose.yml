@@ -6,7 +6,7 @@ services:
     ports:
       - "8000:8000"
     environment:
-      - DATABASE_URL=postgresql://securepay_user:password@postgres:5432/securepay
+      - DATABASE_URL=postgresql://securepay_user:1234567890@postgres:5432/securepay
       - REDIS_URL=redis://redis:6379
     depends_on:
       - postgres
