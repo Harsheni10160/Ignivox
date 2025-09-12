@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Node.js (if frontend la irundha)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
